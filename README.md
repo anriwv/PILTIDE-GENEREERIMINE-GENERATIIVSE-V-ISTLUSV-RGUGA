@@ -33,3 +33,7 @@ Mudeli treenimise lõpus salvestatakse kaalud [faili .h5](https://github.com/anr
 
 [Koodiga](https://github.com/anriwv/PILTIDE-GENEREERIMINE-GENERATIIVSE-V-ISTLUSV-RGUGA/blob/main/tkinterKood/AP/app.py) saab kasutada treenitud mudelit piltide genereerimiseks ja neid kuvada kasutajaliideses või salvestada failina.
 ![](https://github.com/anriwv/PILTIDE-GENEREERIMINE-GENERATIIVSE-V-ISTLUSV-RGUGA/blob/main/tkinterKood/pltjatk.png)
+
+Töö sisaldab endas loomingulist, praktilist ja analüütilist komponenti. 
+Antud töö koostati 2023. aastal praktilise tööna.
+
