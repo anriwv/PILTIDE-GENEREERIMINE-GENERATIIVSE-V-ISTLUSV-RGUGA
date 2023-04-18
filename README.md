@@ -38,4 +38,5 @@ Töö sisaldab endas loomingulist, praktilist ja analüütilist komponenti.
 Antud töö koostati 2023. aastal praktilise tööna.
 
 >python.exe -m pip install --upgrade pip
+>
 >pip install -r requirements.txt
